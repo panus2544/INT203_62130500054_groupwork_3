@@ -1,6 +1,6 @@
 # Group Work 3  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-![Alt text](/62130500054_groupwork_3/images/screenshot-rocks.png?raw=true "Screenshot My Gallery")
+![Alt text](/62130500054_groupwork_3/preview.png?raw=true "Screenshot My Gallery")
 
 **Infomation**
 - I'm a Student in **School of Technology** at **King Mongkut's University of Technology Thonburi**
